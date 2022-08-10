@@ -1,0 +1,8 @@
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\Structs_CSHARP\Structs\Structs\bin\Debug\Structs.exe.config
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\Structs_CSHARP\Structs\Structs\bin\Debug\Structs.exe
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\Structs_CSHARP\Structs\Structs\bin\Debug\Structs.pdb
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\Structs_CSHARP\Structs\Structs\obj\Debug\Structs.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\Structs_CSHARP\Structs\Structs\obj\Debug\Structs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\Structs_CSHARP\Structs\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\Structs_CSHARP\Structs\Structs\obj\Debug\Structs.exe
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\Structs_CSHARP\Structs\Structs\obj\Debug\Structs.pdb
